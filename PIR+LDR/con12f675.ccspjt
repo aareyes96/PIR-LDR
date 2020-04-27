@@ -1,0 +1,23 @@
+[PROJECT]
+Target=con12f675.hex
+Processor_Text=PIC12F675
+CCSVerions=5.010
+Compiler=PCM
+CCSVersion=5.010
+[Target Data]
+FileList=con12f675.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[E:\iWork\PROYECTOS_PIC\PIR+LDR\con12f675]
+Type=4
+[mru-list]
+1=con12f675.c
+[Opened Files]
+1=con12f675.c
+2=
+3=
+[con12f675.c]
+Type=4
+[Units]
+Count=1
+1=con12f675 (main)

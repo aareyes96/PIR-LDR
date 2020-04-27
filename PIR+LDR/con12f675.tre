@@ -1,0 +1,13 @@
+юдcon12f675
+   юдmain  0/138  Ram=1
+      цд@cinit1  (Inline)  Ram=0
+      цд@delay_ms1  0/20  Ram=1
+      цд@PRINTF_LU_519  0/88  Ram=8
+      Ё  юд@PUTCHAR_1_  0/35  Ram=1
+      цд@PUTCHAR_1_  0/35  Ram=1
+      цд@PUTCHAR_1_  0/35  Ram=1
+      цд@PRINTF_LU_519  0/88  Ram=8
+      Ё  юд*
+      цд@PUTCHAR_1_  0/35  Ram=1
+      цд@PUTCHAR_1_  0/35  Ram=1
+      юд@delay_ms1  0/20  Ram=1

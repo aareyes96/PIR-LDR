@@ -1,0 +1,4 @@
+>>> Warning 203 "con12f675.c" Line 30(1,1): Condition always TRUE
+      Memory usage:   ROM=28%      RAM=16% - 28%
+      0 Errors,  1 Warnings.
+Build Successful.

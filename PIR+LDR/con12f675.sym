@@ -1,0 +1,61 @@
+004-005 @READ_PROGRAM_MEMORY8.P1
+019.6   C1OUT
+020     @SCRATCH
+021     @SCRATCH
+021     _RETURN_
+022     @SCRATCH
+023     @SCRATCH
+024-025 a
+026-027 b
+028.0   flag
+029-02A @PRINTF_LU_519.P1
+029     main.@SCRATCH1
+02A     @delay_ms1.P1
+02B     @PRINTF_LU_519.@SCRATCH1
+02C     @PRINTF_LU_519.@SCRATCH2
+02D     @PRINTF_LU_519.@SCRATCH3
+02E     @PRINTF_LU_519.@SCRATCH4
+02F     @PRINTF_LU_519.@SCRATCH5
+030     @PRINTF_LU_519.@SCRATCH6
+031     @PUTCHAR_1_.P1
+09B-09C @READ_PROGRAM_MEMORY8.P1
+
+ROM Allocation:
+00000A  @delay_ms1
+00001E  @PUTCHAR_1_
+000041  @PRINTF_LU_519
+000099  main
+000099  @cinit1
+0000AF  @cinit2
+
+Project Directory:
+    E:\iWork\PROYECTOS_PIC\PROYECTOS TERMINADOS\PIR+LDR\
+
+Project Files:
+    con12f675.c                                             [09-jul.-17 18:52  CRC=693EC91B]
+    C:\Program Files (x86)\PICC\Devices\12F675.h            [19-jul.-13 10:09  CRC=0A49C2E3]
+
+Source signature=7DD24EE1
+
+Units:
+    con12f675 (main)
+
+Compiler Settings:
+    Processor:      PIC12F675
+    Pointer Size:   8
+    ADC Range:      0-1023
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+
+Output Files:
+    XREF file:   con12f675.xsym
+    Errors:      con12f675.err
+    Ext Symbols: con12f675.esym
+    INHX8:       con12f675.hex
+    Symbols:     con12f675.sym
+    List:        con12f675.lst
+    Debug/COFF:  con12f675.cof
+    Project:     con12f675.ccspjt
+    Call Tree:   con12f675.tre
+    Statistics:  con12f675.STA
